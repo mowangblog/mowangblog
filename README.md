@@ -3,4 +3,5 @@
 - 🌱 Resource sharing：[share.mowangblog.top](https://share.mowangblog.top)
 - 💬 QQ：[2623872023](tencent://message/?uin=2623872023)
 - 📫 E-mail：mowangblog@qq.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowangblog&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
