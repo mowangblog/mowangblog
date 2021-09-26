@@ -1,7 +1,7 @@
 ## About Me 👨‍💻
-- 👋 A programmer with a dream
+- 📖 Lifelong learning
 - 🏡 Website：[mowangblog.top](https://mowangblog.top)
-- 🌻 Resource sharing：[share.mowangblog.top](https://share.mowangblog.top)
+- 🌻 Sharing：[share.mowangblog.top](https://share.mowangblog.top)
 - 💬 QQ：[2623872023](tencent://message/?uin=2623872023)
 - 📫 E-mail：mowangblog@qq.com
 
