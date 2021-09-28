@@ -2,7 +2,6 @@
 - 📖 不骄不躁，终身学习 （Never arrogant or impetuous, lifelong learning）
 - 🏡 Website：[mowangblog.top](https://mowangblog.top)
 - 🌻 Sharing：[share.mowangblog.top](https://share.mowangblog.top)
-- 💬 QQ：[2623872023](tencent://message/?uin=2623872023)
 - 📫 E-mail：mowangblog@qq.com
 
 ## Statistics ✨
