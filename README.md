@@ -1,5 +1,5 @@
 ## About Me 👨‍💻
-- 📖 不骄不躁，终身学习 （Never arrogant or impetuous, lifelong learning）
+- 📖 Love programming more love life
 - 🏡 Website：[mowangblog.top](https://mowangblog.top)
 - 🌻 Sharing：[share.mowangblog.top](https://share.mowangblog.top)
 - 📫 E-mail：mowangblog@qq.com
